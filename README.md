@@ -39,18 +39,30 @@ This project is designed as a data analyst system, not just a personal tool, and
 
 data-analyst-system/
 │
+
 ├── app.py                     # Main Streamlit application
+
 ├── requirements.txt           # Project dependencies
 │
+
 ├── core/
+
 │   ├── data_loader.py         # Data loading logic
+
 │   ├── schema_analyzer.py     # Dataset schema detection
+
 │   ├── analysis_engine.py     # Statistical analysis engine
+
 │   ├── insights.py            # Insight generation module
+
 │   ├── visualizer.py          # Visualization utilities
+
 │   └── ml_engine.py           # Machine learning module
+
 │
+
 ├── utils/
+
 │   └── helpers.py             # Shared helper functions
 
 
